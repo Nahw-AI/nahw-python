@@ -5,7 +5,7 @@ Python SDK for the [nahw-ai](https://nahw.ai) REST API.
 ## Installation
 
 ```bash
-pip install nahw
+pip install nahw-python
 ```
 
 Or install from source:
